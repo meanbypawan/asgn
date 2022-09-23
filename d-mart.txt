@@ -27,7 +27,7 @@ Criteria basis
 
  if Total Bill amount is greater then 10000 then you have
  to offer 15% of total bill amount
- if total Bill amount is between 5000 and 7000 then 
+ if total Bill amount is between 5000 and 10000 then 
  you have to offer 10% of total bill amount
  
  Also 10% GST of total Bill Amount
